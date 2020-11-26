@@ -28,7 +28,9 @@ Treatment Regimes"](http://www3.stat.sinica.edu.tw/statistica/oldpdf/A29N41-9.pd
 
 ## Cluster-randomized trials
 
-Bobb, J, **Qiu, H**, Matthews, A, McCormack J, Bradley K (2020). [Addressing identification bias in the design
+**Qiu H**, Cook A, Bobb J (submitted). Evaluating tests for cluster-randomized trials with few clusters under generalized linear mixed models with covariate adjustment: a simulation study.
+
+Bobb J, **Qiu H**, Matthews, A, McCormack J, Bradley K (2020). [Addressing identification bias in the design
 and analysis of cluster-randomized pragmatic trials: a case study.](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-4148-z) *Trials* 21(1), 289.
 
 ## Application
