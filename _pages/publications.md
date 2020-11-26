@@ -17,26 +17,26 @@ author_profile: true
 
 # Statistical estimation and inference under nonparametric models
 
-[**Qiu H**, Luedtke A, Carone M (2020). Universal sieve-based strategies for efficient estimation using machine
-learning tools. *arXiv preprint: arXiv:2003.01856*](https://arxiv.org/abs/2003.01856)
+**Qiu H**, Luedtke A, Carone M (2020). [Universal sieve-based strategies for efficient estimation using machine
+learning tools.] *arXiv preprint: arXiv:2003.01856*(https://arxiv.org/abs/2003.01856)
 
-[**Qiu H**, Carone M, Sadikova E, Petukhova M, Kessler R, Luedtke A (2020). Optimal individualized decision
-rules using instrumental variable methods. *Journal of the American Statistical Association*, 1-18.](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1745814) ([code](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2020.1745814?scroll=top))
+**Qiu H**, Carone M, Sadikova E, Petukhova M, Kessler R, Luedtke A (2020). [Optimal individualized decision
+rules using instrumental variable methods.] *Journal of the American Statistical Association*, 1-18.(https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1745814) ([code](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2020.1745814?scroll=top))
 
-[**Qiu H**, Luedtke A, van der Laan M (2019). Contribution to discussion of "Entropy Learning for Dynamic
-Treatment Regimes" by Jiang B, Song R, Li J, Zeng D. *Statistica Sinica*, 29(4): 1666-1678.](http://www3.stat.sinica.edu.tw/statistica/oldpdf/A29N41-9.pdf?vol=29&num=4&art=10)
+**Qiu H**, Luedtke A, van der Laan M (2019). Contribution to discussion of ["Entropy Learning for Dynamic
+Treatment Regimes"] by Jiang B, Song R, Li J, Zeng D. *Statistica Sinica*, 29(4): 1666-1678.(http://www3.stat.sinica.edu.tw/statistica/oldpdf/A29N41-9.pdf?vol=29&num=4&art=10)
 
 # Cluster-randomized trials
 
-[Bobb, J, **Qiu, H**, Matthews, A, McCormack J, Bradley K (2020). Addressing identification bias in the design
-and analysis of cluster-randomized pragmatic trials: a case study. *Trials* 21(1), 289.](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-4148-z)
+Bobb, J, **Qiu, H**, Matthews, A, McCormack J, Bradley K (2020). [Addressing identification bias in the design
+and analysis of cluster-randomized pragmatic trials: a case study.] *Trials* 21(1), 289.(https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-4148-z)
 
 # Application
 
-[Fitts W, Tassiou NR, Cisse FA, Vogel A, Atakla HG, Sakadi F, **Qiu H**, Conde ML, Balde AT, Bah AK,
-Hamani ABD, Anand P, Patenaude B, Mateen F (2019). School Status and its Associations among Children
-with Epilepsy in the Republic of Guinea. *Epilepsy & Behavior*, 97, 275-281.](https://pubmed.ncbi.nlm.nih.gov/31260925/)
+Fitts W, Tassiou NR, Cisse FA, Vogel A, Atakla HG, Sakadi F, **Qiu H**, Conde ML, Balde AT, Bah AK,
+Hamani ABD, Anand P, Patenaude B, Mateen F (2019). [School Status and its Associations among Children
+with Epilepsy in the Republic of Guinea.] *Epilepsy & Behavior*, 97, 275-281.(https://pubmed.ncbi.nlm.nih.gov/31260925/)
 
-[Jang M, Sakadi F, Tassiou NR, Abass CF, Grundy SJ, Woga A, Kenda BA, Lamine CM, Talibé BA, **Qiu H**,
-Cohen JM, Carone M, Mateen FJ (2018). Impact of Poorly Controlled Epilepsy in the Republic of Guinea.
-*Seizure*, 61, 71-77.](https://pubmed.ncbi.nlm.nih.gov/30114675/)
+Jang M, Sakadi F, Tassiou NR, Abass CF, Grundy SJ, Woga A, Kenda BA, Lamine CM, Talibé BA, **Qiu H**,
+Cohen JM, Carone M, Mateen FJ (2018). [Impact of Poorly Controlled Epilepsy in the Republic of Guinea.]
+*Seizure*, 61, 71-77.(https://pubmed.ncbi.nlm.nih.gov/30114675/)
