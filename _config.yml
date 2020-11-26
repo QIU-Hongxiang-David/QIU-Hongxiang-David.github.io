@@ -86,7 +86,7 @@ author:
   location         : "Seattle, Washington"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=RD5lNEUAAAAJ&hl=en"
   email            : "qiuhx@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
