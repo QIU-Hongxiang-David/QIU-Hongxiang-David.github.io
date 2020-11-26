@@ -35,8 +35,8 @@ and analysis of cluster-randomized pragmatic trials: a case study.](https://tria
 
 Fitts W, Tassiou NR, Cisse FA, Vogel A, Atakla HG, Sakadi F, **Qiu H**, Conde ML, Balde AT, Bah AK,
 Hamani ABD, Anand P, Patenaude B, Mateen F (2019). [School Status and its Associations among Children
-with Epilepsy in the Republic of Guinea.] *Epilepsy & Behavior*, 97, 275-281.(https://pubmed.ncbi.nlm.nih.gov/31260925/)
+with Epilepsy in the Republic of Guinea.](https://pubmed.ncbi.nlm.nih.gov/31260925/) *Epilepsy & Behavior*, 97, 275-281.
 
 Jang M, Sakadi F, Tassiou NR, Abass CF, Grundy SJ, Woga A, Kenda BA, Lamine CM, Talibé BA, **Qiu H**,
-Cohen JM, Carone M, Mateen FJ (2018). [Impact of Poorly Controlled Epilepsy in the Republic of Guinea.]
-*Seizure*, 61, 71-77.(https://pubmed.ncbi.nlm.nih.gov/30114675/)
+Cohen JM, Carone M, Mateen FJ (2018). [Impact of Poorly Controlled Epilepsy in the Republic of Guinea.](https://pubmed.ncbi.nlm.nih.gov/30114675/)
+*Seizure*, 61, 71-77.
