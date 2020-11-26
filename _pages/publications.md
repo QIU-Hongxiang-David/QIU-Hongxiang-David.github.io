@@ -39,4 +39,4 @@ with Epilepsy in the Republic of Guinea. *Epilepsy & Behavior*, 97, 275-281.](ht
 
 [Jang M, Sakadi F, Tassiou NR, Abass CF, Grundy SJ, Woga A, Kenda BA, Lamine CM, Talibé BA, **Qiu H**,
 Cohen JM, Carone M, Mateen FJ (2018). Impact of Poorly Controlled Epilepsy in the Republic of Guinea.
-*Seizure*, 61, 71-77.]
+*Seizure*, 61, 71-77.](https://pubmed.ncbi.nlm.nih.gov/30114675/)
