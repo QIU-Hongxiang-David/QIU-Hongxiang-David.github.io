@@ -18,7 +18,7 @@ author_profile: true
 ## Statistical estimation and inference under nonparametric models
 
 **Qiu H**, Luedtke A, Carone M (2020). [Universal sieve-based strategies for efficient estimation using machine
-learning tools.](https://arxiv.org/abs/2003.01856) *arXiv preprint: arXiv:2003.01856*
+learning tools.](https://arxiv.org/abs/2003.01856) *arXiv preprint: arXiv:2003.01856* (accepted by Bernoulli Journal)
 
 **Qiu H**, Carone M, Sadikova E, Petukhova M, Kessler R, Luedtke A (2020). [Optimal individualized decision
 rules using instrumental variable methods.](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1745814) *Journal of the American Statistical Association*, 1-18. ([code](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2020.1745814?scroll=top))
