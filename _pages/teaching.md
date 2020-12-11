@@ -7,8 +7,12 @@ author_profile: true
 
 ## University of Washington
 
-Spring 2019: Tutor for "Advanced Theory of Statistical Inference" (Instructors: Alex Luedtke, PhD and Marco Carone, PhD).
-
-Winter 2019: Teaching Assistant for "Applied Statistics and Experimental Design" (Instructor: Brian Lerous, PhD)
-
-Winter 2018: Grader for "Advanced Theory of Statistical Inference" (Instructor: Jon A. Wellner, PhD)
+- Tutor for STAT 583: Advanced Theory of Statistical Inference. (Spring 2019)
+Topics including: empirical processes, semiparametric efficiency
+Instructors: Alex Luedtke, PhD and Marco Carone, PhD
+- Teaching Assistant for BIOST 557: Applied Statistics and Experimental Design (Winter 2019)
+Topics including: one/two-sample t-test, linear models, GLMs, causation versus correlation
+Instructor: Brian Lerous, PhD
+- Grader for STAT 582: Advanced Theory of Statistical Inference
+Topics including: Bayes methods, decision theory, UMPU test
+Instructor: Jon A. Wellner, PhD
