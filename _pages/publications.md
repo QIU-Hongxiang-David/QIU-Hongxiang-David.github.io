@@ -20,7 +20,7 @@ author_profile: true
 **Qiu H**, Luedtke A (2021+). [Leveraging vague prior information in general models via iteratively constructed Gamma-minimax estimators.](https://arxiv.org/abs/2012.05465) *arXiv preprint: arXiv:2003.05465* ([code](https://github.com/QIU-Hongxiang-David/Gamma-minimax-learninng))
 
 **Qiu H**, Luedtke A, Carone M (2020). [Universal sieve-based strategies for efficient estimation using machine
-learning tools.](https://arxiv.org/abs/2003.01856) *arXiv preprint: arXiv:2003.01856* (accepted by *Bernoulli Journal*)
+learning tools.](https://arxiv.org/abs/2003.01856) *arXiv preprint: arXiv:2003.01856* (accepted by *Bernoulli*)
 
 **Qiu H**, Carone M, Sadikova E, Petukhova M, Kessler R, Luedtke A (2020). Rejoinder: Optimal individualized decision
 rules using instrumental variable methods. *Journal of the American Statistical Association*.
