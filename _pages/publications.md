@@ -22,11 +22,8 @@ author_profile: true
 **Qiu H**, Luedtke A, Carone M (2020). [Universal sieve-based strategies for efficient estimation using machine
 learning tools.](https://arxiv.org/abs/2003.01856) *arXiv preprint: arXiv:2003.01856* (accepted by *Bernoulli*)
 
-**Qiu H**, Carone M, Sadikova E, Petukhova M, Kessler R, Luedtke A (2020). Rejoinder: Optimal individualized decision
-rules using instrumental variable methods. *Journal of the American Statistical Association*.
-
 **Qiu H**, Carone M, Sadikova E, Petukhova M, Kessler R, Luedtke A (2020). [Optimal individualized decision
-rules using instrumental variable methods.](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1745814) *Journal of the American Statistical Association*, 1-18. ([code](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2020.1745814?scroll=top))
+rules using instrumental variable methods.](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1745814) *Journal of the American Statistical Association* (with discussion), 1-18. ([code](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2020.1745814?scroll=top))
 
 **Qiu H**, Luedtke A, van der Laan M (2019). Contribution to discussion of ["Entropy Learning for Dynamic
 Treatment Regimes"](http://www3.stat.sinica.edu.tw/statistica/oldpdf/A29N41-9.pdf?vol=29&num=4&art=10) by Jiang B, Song R, Li J, Zeng D. *Statistica Sinica*, 29(4): 1666-1678.
