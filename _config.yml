@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hongxiang (David) Qiu"
 title_separator          : "-"
 name                     : &name "Hongxiang (David) Qiu "
-description              : &description "PhD student in Biostatistics at University of Washington"
+description              : &description "Postdoc researcher in Department of Statistics at University of Washington"
 url                      : https://QIU-Hongxiang-David.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "QIU-Hongxiang-David/QIU-Hongxiang-David.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RD5lNEUAAAAJ&hl=en"
-  email            : "david940408@gmail.com"
+  email            : "qiuhx@upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
