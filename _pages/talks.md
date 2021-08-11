@@ -7,6 +7,7 @@ author_profile: true
 
 1. "Optimal individualized decision rules using instrumental variable methods." **Qiu H**, Carone M, Sadikova E,
 Petukhova M, Kessler R, Luedtke A.
+    - 2021 Joint Statistical Meetings [slides](https://qiu-hongxiang-david.github.io/files/JSM2021.pdf)
     - Causal working group (Johns Hopkins University) [slides](https://qiu-hongxiang-david.github.io/files/IV-JHU-talk.pdf)
     - 2020 ENAR Spring Meeting
     - Biostatistics student seminar
