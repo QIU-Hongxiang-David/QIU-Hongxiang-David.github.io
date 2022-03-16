@@ -17,13 +17,19 @@ author_profile: true
 
 ## Statistical estimation and inference under nonparametric models
 
-**Qiu H**, Luedtke A (2021+). [Leveraging vague prior information in general models via iteratively constructed Gamma-minimax estimators.](https://arxiv.org/abs/2012.05465) *arXiv preprint: arXiv:2003.05465* ([code](https://github.com/QIU-Hongxiang-David/Gamma-minimax-learninng))
+**Qiu H**, Edgar Dobriban, Eric Tchetgen Tchetgen (2022+). [Distribution-free Prediction Sets Adaptive to Unknown Covariate Shift](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
+
+**Qiu H**, Luedtke A (2022+). [Leveraging vague prior information in general models via iteratively constructed Gamma-minimax estimators.](https://arxiv.org/abs/2012.05465) *arXiv preprint: arXiv:2003.05465* ([code](https://github.com/QIU-Hongxiang-David/Gamma-minimax-learninng))
 
 **Qiu H**, Luedtke A, Carone M (2020). [Universal sieve-based strategies for efficient estimation using machine learning tools.](https://urldefense.com/v3/__http://dx.doi.org/10.3150/20-BEJ1309__;!!IBzWLUs!FJ__Wf7ZlbUGbxDfr0ZNwJxC0p4cAFD-CVexxJi8NM4a5cVKpzOjQWXZPFamqS4$) *Bernoulli*, 27(4), 2300-2336.
 
 **Qiu H**, Carone M, Sadikova E, Petukhova M, Kessler R, Luedtke A (2020). [Optimal individualized decision rules using instrumental variable methods.](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1745814) *Journal of the American Statistical Association* (with discussion), 116(533), 174-191. ([code](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2020.1745814?scroll=top))
 
 **Qiu H**, Luedtke A, van der Laan M (2019). Contribution to discussion of ["Entropy Learning for Dynamic Treatment Regimes"](http://www3.stat.sinica.edu.tw/statistica/oldpdf/A29N41-9.pdf?vol=29&num=4&art=10) by Jiang B, Song R, Li J, Zeng D. *Statistica Sinica*, 29(4): 1666-1678.
+
+## Prediction sets with theoretical guarantees
+
+**Qiu H**, Edgar Dobriban, Eric Tchetgen Tchetgen (2022+). [Distribution-free Prediction Sets Adaptive to Unknown Covariate Shift](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
 
 ## Cluster-randomized trials
 
