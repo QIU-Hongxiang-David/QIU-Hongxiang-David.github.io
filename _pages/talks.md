@@ -13,9 +13,12 @@ Petukhova M, Kessler R, Luedtke A.
     - Biostatistics student seminar
     - Causal working group (University of washington)
 
-2. “TMLE based on Pseudo-gradients and examples from my project.” **Qiu H**. Semiparametric Efficiency Reading Group.
+2. "Distribution-Free Prediction Sets Adaptive to Unknown Covariate Shift." **Qiu H**, Dobriban E, Tchetgen Tchetgen E.
+    - 2022 American Causal Inference Conference [poster](https://qiu-hongxiang-david.github.io/files/ACIC2022.pdf)
 
-3. "Constructing asymptotically normal plug-in estimators with highly adaptive Lasso and data adaptive series."
+3. “TMLE based on Pseudo-gradients and examples from my project.” **Qiu H**. Semiparametric Efficiency Reading Group.
+
+4. "Constructing asymptotically normal plug-in estimators with highly adaptive Lasso and data adaptive series."
 **Qiu H**, Luedtke A & Carone M.
     - 2019 WNAR/IMS/JR (Japanese Region) meeting.
     - Biostatistics student seminar
