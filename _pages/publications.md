@@ -15,11 +15,15 @@ author_profile: true
 <!--  {% include archive-single.html %}-->
 <!--{% endfor %}-->
 
-## Statistical estimation and inference under nonparametric models
+## Statistical estimation and inference under non-/semi-parametric models
 
-**Qiu H**, Edgar Dobriban, Eric Tchetgen Tchetgen (2022+). [Distribution-free Prediction Sets Adaptive to Unknown Covariate Shift](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
+**Qiu H**, Luedtke A, Carone M (2022+). [Individualized treatment rules under stochastic treatment cost constraints.](https://arxiv.org/abs/2201.06669) *arXiv preprint: arXiv:2201.06669*
 
-**Qiu H**, Luedtke A (2022+). [Leveraging vague prior information in general models via iteratively constructed Gamma-minimax estimators.](https://arxiv.org/abs/2012.05465) *arXiv preprint: arXiv:2003.05465* ([code](https://github.com/QIU-Hongxiang-David/Gamma-minimax-learninng))
+**Qiu H**, Luedtke A (2022+). [Adversarial Meta-Learning of Gamma-Minimax Estimators That Leverage Prior Knowledge.](https://arxiv.org/abs/2012.05465) *arXiv preprint: arXiv:2003.05465* ([code](https://github.com/QIU-Hongxiang-David/Gamma-minimax-learninng))
+
+**Qiu H**, Edgar Dobriban, Eric Tchetgen Tchetgen (2022+). [Distribution-free Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
+
+**Qiu H**, Luedtke A (2022+). [Adversarial Meta-Learning of Gamma-Minimax Estimators That Leverage Prior Knowledge.](https://arxiv.org/abs/2012.05465) *arXiv preprint: arXiv:2003.05465* ([code](https://github.com/QIU-Hongxiang-David/Gamma-minimax-learninng))
 
 **Qiu H**, Luedtke A, Carone M (2020). [Universal sieve-based strategies for efficient estimation using machine learning tools.](https://urldefense.com/v3/__http://dx.doi.org/10.3150/20-BEJ1309__;!!IBzWLUs!FJ__Wf7ZlbUGbxDfr0ZNwJxC0p4cAFD-CVexxJi8NM4a5cVKpzOjQWXZPFamqS4$) *Bernoulli*, 27(4), 2300-2336.
 
@@ -29,11 +33,11 @@ author_profile: true
 
 ## Prediction sets with theoretical guarantees
 
-**Qiu H**, Edgar Dobriban, Eric Tchetgen Tchetgen (2022+). [Distribution-free Prediction Sets Adaptive to Unknown Covariate Shift](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
+**Qiu H**, Edgar Dobriban, Eric Tchetgen Tchetgen (2022+). [Distribution-free Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
 
 ## Cluster-randomized trials
 
-**Qiu H**, Cook A, Bobb J (submitted). Evaluating tests for cluster-randomized trials with few clusters under generalized linear mixed models with covariate adjustment: a simulation study.
+**Qiu H**, Cook A, Bobb J (2022+). [Evaluating tests for cluster-randomized trials with few clusters under generalized linear mixed models with covariate adjustment: a simulation study.](https://arxiv.org/abs/2209.04364) *arXiv preprint arXiv:2209.04364* ([code](https://github.com/QIU-Hongxiang-David/small-sample-adjusted-GLMM-CRT))
 
 Bobb J, **Qiu H**, Matthews, A, McCormack J, Bradley K (2020). [Addressing identification bias in the design and analysis of cluster-randomized pragmatic trials: a case study.](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-4148-z) *Trials* 21(1), 289.
 
