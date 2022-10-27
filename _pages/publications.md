@@ -35,7 +35,7 @@ author_profile: true
 
 ## Causal inference and individualized treatment rules
 
-**Qiu H**, Shi X, Miao W, Dobriban E, Tchetgen Tchetgen E (2022+). [Doubly Robust Proximal Synthetic Controls](https://arxiv.org/abs/2210.02014) *arXiv preprint arXiv:2210.02014*
+**Qiu H**, Shi X, Miao W, Dobriban E, Tchetgen Tchetgen E (2022+). [Doubly Robust Proximal Synthetic Controls.](https://arxiv.org/abs/2210.02014) *arXiv preprint arXiv:2210.02014*
 
 **Qiu H**, Luedtke A, Carone M (2022+). [Individualized treatment rules under stochastic treatment cost constraints.](https://arxiv.org/abs/2201.06669) *arXiv preprint: arXiv:2201.06669*
 
