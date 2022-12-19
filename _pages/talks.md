@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 1. "Doubly Robust Proximal Synthetic Controls." **Qiu H**, Shi X, Miao W, Dobriban E, Tchetgen Tchetgen E.
+    - 2022 CMStatistics [slides](https://qiu-hongxiang-david.github.io/files/CMStatistics2022.pdf)
     - 2022 Fall Center for Causal Inference Seminar [slides](https://qiu-hongxiang-david.github.io/files/CCI2022.pdf)
 
 2. "Distribution-Free Prediction Sets Adaptive to Unknown Covariate Shift." **Qiu H**, Dobriban E, Tchetgen Tchetgen E.
