@@ -51,6 +51,8 @@ Bobb J, **Qiu H**, Matthews, A, McCormack J, Bradley K (2020). [Addressing ident
 
 ## Application
 
+Wartko PD, **Qiu H**, Idu A, Yu O, McCormack J, Matthews AG, Bobb JF, Saxon AJ, Campbell CI, Liu D, Braciszewski JM, Murphy SM, Burganowski RP, Murphy MT, Horigian VE, Hamilton LK, Lee AK, Boudreau DM, Bradley KA (2022). [Baseline representativeness of patients in clinics enrolled in the PRimary care Opioid Use Disorders treatment (PROUD) trial: comparison of trial and non-trial clinics in the same health systems.](https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-022-08915-1) *BMC Health Services Research*, 22 (1), 1-11.
+
 Fitts W, Tassiou NR, Cisse FA, Vogel A, Atakla HG, Sakadi F, **Qiu H**, Conde ML, Balde AT, Bah AK, Hamani ABD, Anand P, Patenaude B, Mateen F (2019). [School Status and its Associations among Children with Epilepsy in the Republic of Guinea.](https://pubmed.ncbi.nlm.nih.gov/31260925/) *Epilepsy & Behavior*, 97, 275-281.
 
 Jang M, Sakadi F, Tassiou NR, Abass CF, Grundy SJ, Woga A, Kenda BA, Lamine CM, Talibé BA, **Qiu H**, Cohen JM, Carone M, Mateen FJ (2018). [Impact of Poorly Controlled Epilepsy in the Republic of Guinea.](https://pubmed.ncbi.nlm.nih.gov/30114675/) *Seizure*, 61, 71-77.
