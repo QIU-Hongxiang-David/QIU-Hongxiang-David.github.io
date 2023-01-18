@@ -19,7 +19,7 @@ author_profile: true
 
 **Qiu H**, Luedtke A (2022+). [Adversarial Meta-Learning of Gamma-Minimax Estimators That Leverage Prior Knowledge.](https://arxiv.org/abs/2012.05465) *arXiv preprint: arXiv:2003.05465* ([code](https://github.com/QIU-Hongxiang-David/Gamma-minimax-learninng))
 
-**Qiu H**, Edgar Dobriban, Eric Tchetgen Tchetgen (2022+). [Distribution-free Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
+**Qiu H**, Edgar Dobriban, Eric Tchetgen Tchetgen (2022+). [Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
 
 **Qiu H**, Luedtke A, Carone M (2022). [Individualized treatment rules under stochastic treatment cost constraints.](https://www.degruyter.com/document/doi/10.1515/jci-2022-0005/html) *Journal of Causal Inference*, 10(1), 480-493.
 
@@ -31,7 +31,7 @@ author_profile: true
 
 ## Prediction sets with theoretical guarantees
 
-**Qiu H**, Edgar Dobriban, Eric Tchetgen Tchetgen (2022+). [Distribution-free Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
+**Qiu H**, Edgar Dobriban, Eric Tchetgen Tchetgen (2022+). [Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
 
 ## Causal inference and individualized treatment rules
 
