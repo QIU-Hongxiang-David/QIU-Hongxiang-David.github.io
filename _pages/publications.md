@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <!-- {% if author.googlescholar %}-->
-<!--  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>-->
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=RD5lNEUAAAAJ&hl=en).
 <!--{% endif %}-->
 
 <!--{% include base_path %}-->
@@ -17,9 +17,11 @@ author_profile: true
 
 ## Statistical estimation and inference under non-/semi-parametric models
 
+**Qiu H**, Tchetgen Tchetgen E, Dobriban E (2023+). [Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift.](https://arxiv.org/abs/2306.16406) *arXiv preprint: arXiv:2306.16406* ([code](https://github.com/QIU-Hongxiang-David/RiskEstDShift))
+
 **Qiu H**, Luedtke A (2022+). [Adversarial Meta-Learning of Gamma-Minimax Estimators That Leverage Prior Knowledge.](https://arxiv.org/abs/2012.05465) *arXiv preprint: arXiv:2003.05465* ([code](https://github.com/QIU-Hongxiang-David/Gamma-minimax-learninng))
 
-**Qiu H**, Edgar Dobriban, Eric Tchetgen Tchetgen (2022+). [Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
+**Qiu H**, Dobriban E, Tchetgen Tchetgen E (2022+). [Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126*. Accepted by *Journal of the Royal Statistical Society, Series B (Statistical Methodology)* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
 
 **Qiu H**, Luedtke A, Carone M (2022). [Individualized treatment rules under stochastic treatment cost constraints.](https://www.degruyter.com/document/doi/10.1515/jci-2022-0005/html) *Journal of Causal Inference*, 10(1), 480-493.
 
@@ -31,7 +33,9 @@ author_profile: true
 
 ## Prediction sets with theoretical guarantees
 
-**Qiu H**, Edgar Dobriban, Eric Tchetgen Tchetgen (2022+). [Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
+**Qiu H**, Tchetgen Tchetgen E, Dobriban E (2023+). [Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift.](https://arxiv.org/abs/2306.16406) *arXiv preprint: arXiv:2306.16406* ([code](https://github.com/QIU-Hongxiang-David/RiskEstDShift))
+
+**Qiu H**, Dobriban E, Tchetgen Tchetgen E (2022+). [Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
 
 ## Causal inference and individualized treatment rules
 
