@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hongxiang (David) Qiu"
 title_separator          : "-"
 name                     : &name "Hongxiang (David) Qiu "
-description              : &description "Postdoc researcher in Department of Statistics at University of Pennsylvania"
+description              : &description "Assistant Professor, Department of Epidemiology and Biostatistics, Michigan State University"
 url                      : https://QIU-Hongxiang-David.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "QIU-Hongxiang-David/QIU-Hongxiang-David.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hongxiang (David) Qiu"
   avatar           : "profile.jpg" #PHOTO!!!!
-  bio              : "Postdoc researcher in Department of Statistics at University of Pennsylvania"
+  bio              : "Assistant Professor, Department of Epidemiology and Biostatistics, Michigan State University"
   location         : "Philadelphia, Pennsylvania"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RD5lNEUAAAAJ&hl=en"
-  email            : "qiuhx [at] upenn [dot] edu"
+  email            : "qiuhongx [at] msu [dot] edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
