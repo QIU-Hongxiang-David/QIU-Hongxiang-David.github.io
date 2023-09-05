@@ -19,7 +19,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **Qiu H**, Tchetgen Tchetgen E, Dobriban E (2023+). [Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift.](https://arxiv.org/abs/2306.16406) *arXiv preprint: arXiv:2306.16406* ([code](https://github.com/QIU-Hongxiang-David/RiskEstDShift))
 
-**Qiu H**, Luedtke A (2022+). [Adversarial Meta-Learning of Gamma-Minimax Estimators That Leverage Prior Knowledge.](https://arxiv.org/abs/2012.05465) *arXiv preprint: arXiv:2003.05465* ([code](https://github.com/QIU-Hongxiang-David/Gamma-minimax-learninng))
+**Qiu H**, Luedtke A (2022+). [Adversarial Meta-Learning of Gamma-Minimax Estimators That Leverage Prior Knowledge.](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-2/Adversarial-meta-learning-of-Gamma-minimax-estimators-that-leverage-prior/10.1214/23-EJS2151.full) *Electronic Journal of Statistics*, 17(2), 1996-2043. ([code](https://github.com/QIU-Hongxiang-David/Gamma-minimax-learninng))
 
 **Qiu H**, Dobriban E, Tchetgen Tchetgen E (2022+). [Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126*. Accepted by *Journal of the Royal Statistical Society, Series B (Statistical Methodology)* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
 
