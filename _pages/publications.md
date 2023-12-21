@@ -49,7 +49,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Cluster-randomized trials
 
-**Qiu H**, Cook A, Bobb J (2023). [Evaluating tests for cluster-randomized trials with few clusters under generalized linear mixed models with covariate adjustment: a simulation study.](https://onlinelibrary.wiley.com/doi/10.1002/sim.9950) *Statistics in Medicine*. ([code](https://github.com/QIU-Hongxiang-David/small-sample-adjusted-GLMM-CRT))
+**Qiu H**, Cook A, Bobb J (2024). [Evaluating tests for cluster-randomized trials with few clusters under generalized linear mixed models with covariate adjustment: a simulation study.](https://onlinelibrary.wiley.com/doi/10.1002/sim.9950) *Statistics in Medicine* 43(2), 201-215. ([code](https://github.com/QIU-Hongxiang-David/small-sample-adjusted-GLMM-CRT))
 
 Bobb J, **Qiu H**, Matthews, A, McCormack J, Bradley K (2020). [Addressing identification bias in the design and analysis of cluster-randomized pragmatic trials: a case study.](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-4148-z) *Trials* 21(1), 289.
 
