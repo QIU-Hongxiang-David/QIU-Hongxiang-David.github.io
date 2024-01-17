@@ -10,9 +10,10 @@ author_profile: true
     - 2022 CMStatistics [slides](https://qiu-hongxiang-david.github.io/files/CMStatistics2022.pdf)
     - 2022 Fall Center for Causal Inference Seminar [slides](https://qiu-hongxiang-david.github.io/files/CCI2022.pdf)
 
-2. "Distribution-Free Prediction Sets Adaptive to Unknown Covariate Shift." **Qiu H**, Dobriban E, Tchetgen Tchetgen E.
-    - 2022 Joint Statistical Meeting [slides](https://qiu-hongxiang-david.github.io/files/JSM2022.pdf)
+2. "Prediction Sets Adaptive to Unknown Covariate Shift." **Qiu H**, Dobriban E, Tchetgen Tchetgen E.
+    - 2024 5th International Conference on Artificial Intelligence in Electronics Engineering (AIEE 2024) [slides](https://qiu-hongxiang-david.github.io/files/AIEE2024.pptx)
     - 2022 American Causal Inference Conference [poster](https://qiu-hongxiang-david.github.io/files/ACIC2022.pdf)
+    - 2022 Joint Statistical Meeting [slides](https://qiu-hongxiang-david.github.io/files/JSM2022.pdf)
 
 1. "Optimal individualized decision rules using instrumental variable methods." **Qiu H**, Carone M, Sadikova E,
 Petukhova M, Kessler R, Luedtke A.
@@ -22,7 +23,9 @@ Petukhova M, Kessler R, Luedtke A.
     - Biostatistics student seminar
     - Causal working group (University of washington)
 
+<!---
 3. “TMLE based on Pseudo-gradients and examples from my project.” **Qiu H**. Semiparametric Efficiency Reading Group.
+-->
 
 4. "Constructing asymptotically normal plug-in estimators with highly adaptive Lasso and data adaptive series."
 **Qiu H**, Luedtke A & Carone M.
