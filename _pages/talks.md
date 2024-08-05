@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+1. "Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift." **Qiu H**, , Tchetgen Tchetgen E, Dobriban E.
+    - 2024 Joint Statistical Meeting [slides](https://qiu-hongxiang-david.github.io/files/JSM2024.pdf)
 1. "Doubly Robust Proximal Synthetic Controls." **Qiu H**, Shi X, Miao W, Dobriban E, Tchetgen Tchetgen E.
     - 2023 American Causal Inference Conference [slides](https://qiu-hongxiang-david.github.io/files/ACIC2023.pdf)
     - 2022 CMStatistics [slides](https://qiu-hongxiang-david.github.io/files/CMStatistics2022.pdf)
