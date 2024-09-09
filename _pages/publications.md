@@ -17,11 +17,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Statistical estimation and inference under non-/semi-parametric models
 
-**Qiu H**, Tchetgen Tchetgen E, Dobriban E (2023+). [Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift.](https://arxiv.org/abs/2306.16406) *arXiv preprint: arXiv:2306.16406* ([code](https://github.com/QIU-Hongxiang-David/RiskEstDShift))
+**Qiu H**. (2024). [Non-Plug-In Estimators Could Outperform Plug-In Estimators: a Cautionary Note and a Diagnosis.](https://doi.org/10.1515/EM-2024-0008) *Epidemiologic Methods*, 13(1). ([code](https://github.com/QIU-Hongxiang-David/plug_in_sim))
 
-**Qiu H**, Luedtke A (2022+). [Adversarial Meta-Learning of Gamma-Minimax Estimators That Leverage Prior Knowledge.](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-2/Adversarial-meta-learning-of-Gamma-minimax-estimators-that-leverage-prior/10.1214/23-EJS2151.full) *Electronic Journal of Statistics*, 17(2), 1996-2043. ([code](https://github.com/QIU-Hongxiang-David/Gamma-minimax-learninng))
+**Qiu H**, Tchetgen Tchetgen E, Dobriban E (2024). [Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift.](https://arxiv.org/abs/2306.16406) *arXiv preprint arXiv:2306.16406*. (Accepted by *Annals of Statistics*) ([code](https://github.com/QIU-Hongxiang-David/RiskEstDShift))
 
-**Qiu H**, Dobriban E, Tchetgen Tchetgen E (2022+). [Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126*. Accepted by *Journal of the Royal Statistical Society, Series B (Statistical Methodology)* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
+**Qiu H**, Luedtke A (2023). [Adversarial Meta-Learning of Gamma-Minimax Estimators That Leverage Prior Knowledge.](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-2/Adversarial-meta-learning-of-Gamma-minimax-estimators-that-leverage-prior/10.1214/23-EJS2151.full) *Electronic Journal of Statistics*, 17(2), 1996-2043. ([code](https://github.com/QIU-Hongxiang-David/Gamma-minimax-learninng))
+
+**Qiu H**, Dobriban E, Tchetgen Tchetgen E (2023). [Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126*. Accepted by *Journal of the Royal Statistical Society, Series B (Statistical Methodology)* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
 
 **Qiu H**, Luedtke A, Carone M (2022). [Individualized treatment rules under stochastic treatment cost constraints.](https://www.degruyter.com/document/doi/10.1515/jci-2022-0005/html) *Journal of Causal Inference*, 10(1), 480-493.
 
@@ -31,27 +33,51 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **Qiu H**, Luedtke A, van der Laan M (2019). Contribution to discussion of ["Entropy Learning for Dynamic Treatment Regimes"](http://www3.stat.sinica.edu.tw/statistica/oldpdf/A29N41-9.pdf?vol=29&num=4&art=10) by Jiang B, Song R, Li J, Zeng D. *Statistica Sinica*, 29(4): 1666-1678.
 
-## Prediction sets with theoretical guarantees
 
-**Qiu H**, Tchetgen Tchetgen E, Dobriban E (2023+). [Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift.](https://arxiv.org/abs/2306.16406) *arXiv preprint: arXiv:2306.16406* ([code](https://github.com/QIU-Hongxiang-David/RiskEstDShift))
 
-**Qiu H**, Dobriban E, Tchetgen Tchetgen E (2022+). [Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
+
+
 
 ## Causal inference and individualized treatment rules
 
-**Qiu H**, Shi X, Miao W, Dobriban E, Tchetgen Tchetgen E (2022+). [Doubly Robust Proximal Synthetic Controls.](https://arxiv.org/abs/2210.02014) *arXiv preprint arXiv:2210.02014*
+**Qiu H**. (2024). [Non-Plug-In Estimators Could Outperform Plug-In Estimators: a Cautionary Note and a Diagnosis.](https://doi.org/10.1515/EM-2024-0008) *Epidemiologic Methods*, 13(1). ([code](https://github.com/QIU-Hongxiang-David/plug_in_sim))
 
-**Qiu H**, Luedtke A, Carone M (2022+). [Individualized treatment rules under stochastic treatment cost constraints.](https://arxiv.org/abs/2201.06669) *arXiv preprint: arXiv:2201.06669*
+**Qiu H**, Shi X, Miao W, Dobriban E, Tchetgen Tchetgen E (2024). [Doubly Robust Proximal Synthetic Controls.](https://academic.oup.com/biometrics/article/80/2/ujae055/7685803) *Biometrics*, 80(2). ([code](https://github.com/QIU-Hongxiang-David/DR_Proximal_SC))
+
+**Qiu H**, Luedtke A, Carone M (2022). [Individualized treatment rules under stochastic treatment cost constraints.](https://www.degruyter.com/document/doi/10.1515/jci-2022-0005/html) *Journal of Causal Inference*, 10(1), 480-493.
 
 **Qiu H**, Carone M, Sadikova E, Petukhova M, Kessler R, Luedtke A (2020). [Optimal individualized decision rules using instrumental variable methods.](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1745814) *Journal of the American Statistical Association* (with discussion), 116(533), 174-191. ([code](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2020.1745814?scroll=top))
 
 **Qiu H**, Luedtke A, van der Laan M (2019). Contribution to discussion of ["Entropy Learning for Dynamic Treatment Regimes"](http://www3.stat.sinica.edu.tw/statistica/oldpdf/A29N41-9.pdf?vol=29&num=4&art=10) by Jiang B, Song R, Li J, Zeng D. *Statistica Sinica*, 29(4): 1666-1678.
+
+
+
+
+
+
+## Prediction sets with theoretical guarantees
+
+**Qiu H**, Tchetgen Tchetgen E, Dobriban E (2023+). [Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift.](https://arxiv.org/abs/2306.16406) *arXiv preprint: arXiv:2306.16406* (Accepted by *Annals of Statistics*) ([code](https://github.com/QIU-Hongxiang-David/RiskEstDShift))
+
+**Qiu H**, Dobriban E, Tchetgen Tchetgen E (2023). [Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
+
+
+
+
+
+
 
 ## Cluster-randomized trials
 
 **Qiu H**, Cook A, Bobb J (2024). [Evaluating tests for cluster-randomized trials with few clusters under generalized linear mixed models with covariate adjustment: a simulation study.](https://onlinelibrary.wiley.com/doi/10.1002/sim.9950) *Statistics in Medicine* 43(2), 201-215. ([code](https://github.com/QIU-Hongxiang-David/small-sample-adjusted-GLMM-CRT))
 
 Bobb J, **Qiu H**, Matthews, A, McCormack J, Bradley K (2020). [Addressing identification bias in the design and analysis of cluster-randomized pragmatic trials: a case study.](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-4148-z) *Trials* 21(1), 289.
+
+
+
+
+
+
 
 ## Application
 
