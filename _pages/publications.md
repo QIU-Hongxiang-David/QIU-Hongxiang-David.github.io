@@ -17,13 +17,15 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Statistical estimation and inference under non-/semi-parametric models
 
-**Qiu H**. (2024). [Non-Plug-In Estimators Could Outperform Plug-In Estimators: a Cautionary Note and a Diagnosis.](https://doi.org/10.1515/EM-2024-0008) *Epidemiologic Methods*, 13(1). ([code](https://github.com/QIU-Hongxiang-David/plug_in_sim))
+Si W, **Qiu H** (2025). [Training-Set Conditionally Valid Prediction Sets with Right-Censored Data.](https://arxiv.org/abs/2505.02213) *arxiv preprint: arXiv:2505.02213*.
+
+**Qiu H** (2024). [Non-Plug-In Estimators Could Outperform Plug-In Estimators: a Cautionary Note and a Diagnosis.](https://doi.org/10.1515/EM-2024-0008) *Epidemiologic Methods*, 13(1). ([code](https://github.com/QIU-Hongxiang-David/plug_in_sim))
 
 **Qiu H**, Tchetgen Tchetgen E, Dobriban E (2024). [Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift.](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-4/Efficient-and-multiply-robust-risk-estimation-under-general-forms-of/10.1214/24-AOS2422.full) *Annals of Statistics*, 52(4). ([code](https://github.com/QIU-Hongxiang-David/RiskEstDShift))
 
 **Qiu H**, Luedtke A (2023). [Adversarial Meta-Learning of Gamma-Minimax Estimators That Leverage Prior Knowledge.](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-2/Adversarial-meta-learning-of-Gamma-minimax-estimators-that-leverage-prior/10.1214/23-EJS2151.full) *Electronic Journal of Statistics*, 17(2), 1996-2043. ([code](https://github.com/QIU-Hongxiang-David/Gamma-minimax-learninng))
 
-**Qiu H**, Dobriban E, Tchetgen Tchetgen E (2023). [Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126*. Accepted by *Journal of the Royal Statistical Society, Series B (Statistical Methodology)* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
+**Qiu H**, Dobriban E, Tchetgen Tchetgen E (2023). [Prediction Sets Adaptive to Unknown Covariate Shift.](https://academic.oup.com/jrsssb/article/85/5/1680/7225361) *Journal of the Royal Statistical Society, Series B (Statistical Methodology)* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
 
 **Qiu H**, Luedtke A, Carone M (2022). [Individualized treatment rules under stochastic treatment cost constraints.](https://www.degruyter.com/document/doi/10.1515/jci-2022-0005/html) *Journal of Causal Inference*, 10(1), 480-493.
 
@@ -57,9 +59,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Prediction sets with theoretical guarantees
 
+Si W, **Qiu H** (2025). [Training-Set Conditionally Valid Prediction Sets with Right-Censored Data.](https://arxiv.org/abs/2505.02213) *arxiv preprint: arXiv:2505.02213*.
+
 **Qiu H**, Tchetgen Tchetgen E, Dobriban E (2024). [Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift.](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-4/Efficient-and-multiply-robust-risk-estimation-under-general-forms-of/10.1214/24-AOS2422.full) *Annals of Statistics*, 52(4). ([code](https://github.com/QIU-Hongxiang-David/RiskEstDShift))
 
-**Qiu H**, Dobriban E, Tchetgen Tchetgen E (2023). [Prediction Sets Adaptive to Unknown Covariate Shift.](https://arxiv.org/abs/2203.06126) *arXiv preprint: arXiv:2203.06126* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
+**Qiu H**, Dobriban E, Tchetgen Tchetgen E (2023). [Prediction Sets Adaptive to Unknown Covariate Shift.](https://academic.oup.com/jrsssb/article/85/5/1680/7225361) *Journal of the Royal Statistical Society, Series B (Statistical Methodology)* ([code](https://github.com/QIU-Hongxiang-David/APACpredset))
 
 
 
