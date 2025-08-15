@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+1. "Berry-Esseen type bound for Structure-Agnostic Semiparametric Treatment Effect Inference in Randomized trials." **Qiu H**.
+   - 2025 Joint Statistical Meeting [slides](https://qiu-hongxiang-david.github.io/files/JSM2025.pdf)
+   - 2025 American Causal Inference Conference [poster](https://qiu-hongxiang-david.github.io/files/ACIC2025.pdf)
+
 1. "Novel Estimators of Minimally Important Change for Patient-Reported Outcomes." **Qiu H**.
     - 2025 Research Day, Department of Epidemiology and Biostatistics, College of Human Medicine, Michigan State University [slides](https://qiu-hongxiang-david.github.io/files/AIEE2024.pptx)
 
