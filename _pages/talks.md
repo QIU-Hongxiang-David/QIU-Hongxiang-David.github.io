@@ -12,7 +12,8 @@ author_profile: true
 1. "Novel Estimators of Minimally Important Change for Patient-Reported Outcomes." **Qiu H**.
     - 2025 Research Day, Department of Epidemiology and Biostatistics, College of Human Medicine, Michigan State University [slides](https://qiu-hongxiang-david.github.io/files/AIEE2024.pptx)
 
-1. "Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift." **Qiu H**, , Tchetgen Tchetgen E, Dobriban E.
+1. "Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift." **Qiu H**, Tchetgen Tchetgen E, Dobriban E.
+    - 2026 ICSA Applied Statistics Symposium [slides](https://qiu-hongxiang-david.github.io/files/ICSA2026.pdf)
     - 2024 Joint Statistical Meeting [slides](https://qiu-hongxiang-david.github.io/files/JSM2024.pdf)
 1. "Doubly Robust Proximal Synthetic Controls." **Qiu H**, Shi X, Miao W, Dobriban E, Tchetgen Tchetgen E.
     - 2023 American Causal Inference Conference [slides](https://qiu-hongxiang-david.github.io/files/ACIC2023.pdf)
