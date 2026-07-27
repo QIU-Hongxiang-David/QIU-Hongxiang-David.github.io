@@ -33,10 +33,6 @@ Petukhova M, Kessler R, Luedtke A.
     - Biostatistics student seminar
     - Causal working group (University of washington)
 
-<!---
-3. “TMLE based on Pseudo-gradients and examples from my project.” **Qiu H**. Semiparametric Efficiency Reading Group.
--->
-
 4. "Constructing asymptotically normal plug-in estimators with highly adaptive Lasso and data adaptive series."
 **Qiu H**, Luedtke A & Carone M.
     - 2019 WNAR/IMS/JR (Japanese Region) meeting.
