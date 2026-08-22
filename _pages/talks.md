@@ -10,7 +10,7 @@ author_profile: true
    - 2025 American Causal Inference Conference [poster](https://qiu-hongxiang-david.github.io/files/ACIC2025.pdf)
 
 1. "Novel Estimators of Minimally Important Change for Patient-Reported Outcomes." **Qiu H**.
-    - 2025 Research Day, Department of Epidemiology and Biostatistics, College of Human Medicine, Michigan State University [slides](https://qiu-hongxiang-david.github.io/files/AIEE2024.pptx)
+    - 2025 Research Day, Department of Epidemiology and Biostatistics, College of Human Medicine, Michigan State University [slides](https://qiu-hongxiang-david.github.io/files/2025ResearchDay.pptx)
 
 1. "Efficient and Multiply Robust Risk Estimation under General Forms of Dataset Shift." **Qiu H**, Tchetgen Tchetgen E, Dobriban E.
     - 2026 ICSA Applied Statistics Symposium [slides](https://qiu-hongxiang-david.github.io/files/ICSA2026.pdf)
